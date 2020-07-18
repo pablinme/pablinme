@@ -11,5 +11,4 @@ Los que recuerdan, esos manuales eran prácticamente un libro -casi enciclopedia
 
 <!-- # Proyectos 💻 -->
 
-## 🌎
-No estoy muy activo en las redes sociales pero voy a tratar de escribir más seguido en [mi bitácora](https://pableins.com/).
+[🌎](https://pableins.com/)
