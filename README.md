@@ -1,14 +1,15 @@
-Mis aventuras y desventuras con el computador empezaron hace ya muchos años atrás, seriamente con un manual IBM y DOS es interesante como el enfoque puede cambiar en un instante.
+> Hola mi nombre es Pablo.
 
-![hocus_pocus](https://www.playdosgames.com/assets/screenshots/hocus-pocus_3.png)
+Soy un desarrollador de Quito, Ecuador.
 
-Recuerdo que al querer instalar el juego de Hocus Pocus me topé con un error -estaba en zip- y por esas casualidades de la vida no sabia que hacer ya que hasta ese momento siempre el procedimiento para instalar un programa o juego desde el diskette fue básicamente el mismo sin necesidad de utilizar [PKZIP](https://en.wikipedia.org/wiki/PKZIP) y en ese punto me pregunté:
+Puedes leer más sobre mí [aquí](https://pableins.com/acerca-de/).
 
-> Qué más puedo hacer?
+##Contacto
+[Twitter](https://twitter.com/pablinme)
+[Instagram](https://www.instagram.com/pableins_me/)
+[RSS](https://pableins.com/index.php/feed/)
 
-Los que recuerdan, esos manuales eran prácticamente un libro -casi enciclopedia- y así empezo todo.
-[leer más](https://pableins.com/acerca-de/).
+Y también leer las publicaciones en [mi bitácora](https://pableins.com/).
 
 <!-- # Proyectos 💻 -->
 
-[🌎](https://pableins.com/)
