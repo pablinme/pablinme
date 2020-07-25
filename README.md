@@ -10,7 +10,7 @@ Puedes leer más sobre mí [aquí](https://pableins.com/acerca-de/).
 [Telegram](https://t.me/pablinme)
 [RSS](https://pableins.com/index.php/feed/)
 
-También leer las publicaciones en [mi bitácora](https://pableins.com/).
+También puedes visitar [mi bitácora](https://pableins.com/).
 
 <!-- # Proyectos 💻 -->
 
