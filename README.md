@@ -11,6 +11,6 @@ Puedes leer más sobre mí [aquí](https://pableins.com/acerca-de/).
 
 También puedes visitar [mi bitácora](https://pableins.com/).
 
-[Blog RSS](https://pableins.com/index.php/feed/)
+[Blog RSS](https://pableins.com/feed/)
 <!-- # Proyectos 💻 -->
 
