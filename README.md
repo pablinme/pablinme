@@ -1,16 +1,22 @@
-> Hola mi nombre es Pablo.
+> Hi, my name is Pablo.
 
-Soy un desarrollador de Quito, Ecuador.
+I am a Software Developer from Quito, Ecuador.
 
-Puedes leer más sobre mí [aquí](https://pableins.com/acerca-de/).
+I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️
 
-## Contacto
-[Twitter](https://twitter.com/pablinme)
-[Instagram](https://www.instagram.com/pableins_me/)
-[Telegram](https://t.me/pablinme)
+## About Me:
+- 🔍 Focusing on personal projects
+- 🌐 Can be found on [Twitter](https://twitter.com/pablinme), [Telegram](https://t.me/pablinme)
+- 💻 Swift && C#
+- 📖 Reading "Life Is What You Make It" by Peter Buffett
+- 🏠 Currently living in Tomsk, Russia
 
-También puedes visitar [mi bitácora](https://pableins.com/).
+- Sometimes I play [Chess](https://www.chess.com/member/pablinme). 
 
-[Blog RSS](https://pableins.com/feed/)
-<!-- # Proyectos 💻 -->
+------
 
+Also you can visit my blog [pableins.com](https://pableins.com/).
+
+<!--  [Blog RSS](https://pableins.com/feed/)  -->
+
+<!--  ![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&count_private=true&hide=issues,prs)  -->
