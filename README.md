@@ -5,7 +5,7 @@ I am a Software Developer from Quito, Ecuador.
 I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️
 
 ## About Me:
-- 🔍 Focusing on personal projects
+- 🔍 Working on personal projects
 - 🌐 Can be found on [Twitter](https://twitter.com/pablinme), [Telegram](https://t.me/pablinme)
 - 💻 Swift && C#
 - 📖 Reading "Life Is What You Make It" by Peter Buffett
