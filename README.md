@@ -15,7 +15,7 @@ I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️
 
 ------
 
-Also you can visit my blog [blog.pableins.com](https://blog.pableins.com/).
+Also you can visit my blog at [blog.pableins.com](https://blog.pableins.com/).
 
 <!--  [Blog RSS](https://pableins.com/feed/)  -->
 
