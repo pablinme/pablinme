@@ -14,6 +14,4 @@ I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️
 
 ------
 
-<!--  [Blog RSS](https://pableins.com/feed/)  -->
-
-<!--  ![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&count_private=true&hide=issues,prs)  -->
+![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&count_private=true&hide=issues,prs)
