@@ -15,8 +15,8 @@ I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️
 ------
 
 <a href="https://pableins.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&count_private=true&hide=issues,prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&count_private=true&theme=dark&hide=issues,prs" />
 </a>
 <a href="https://pableins.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablinme&count_private=true&hide=cmake" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablinme&count_private=true&theme=dark&hide=cmake" />
 </a>
