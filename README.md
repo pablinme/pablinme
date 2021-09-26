@@ -2,16 +2,12 @@
 
 I am a Software Developer from Quito, Ecuador.
 
-I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️
-
 ## About Me:
-- 🔍 Working on personal projects
-- 💻 Enjoy playing with Swift && C#
+- 👨🏻‍💻 Working on personal projects
+- 💫 Enjoy playing with Swift and C#
 - 🌐 Can be found on [Twitter](https://twitter.com/pablinme), [Telegram](https://t.me/pablinme)
-- ♟️Like to play Chess even if it is online.
 - 🏠 Currently living in Tomsk, Russia (Siberia)
-- 📖 Reading "Life Is What You Make It" by Peter Buffett
-
+- I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️.
 ------
 
 <a href="https://pableins.com">
