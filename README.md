@@ -6,7 +6,7 @@ I am a Software Developer from Quito, Ecuador.
 - 👨🏻‍💻 Working on personal projects
 - 💫 Enjoy playing with Swift and C#
 - 🌐 Can be found on [Twitter](https://twitter.com/pablinme), [Telegram](https://t.me/pablinme)
-- 🏠 Currently living in Tomsk, Russia (Siberia)
+- 🏠 Currently living in Quito, Ecuador
 - I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️.
 ------
 
