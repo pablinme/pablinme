@@ -3,10 +3,10 @@
 I am a Software Developer from Quito, Ecuador.
 
 ## About Me:
-- 👨🏻‍💻 Working on personal projects
-- 🌐 Can be found on [Twitter](https://twitter.com/pablinme), [Telegram](https://t.me/pablinme)
-- 🏠 Currently living in Quito, Ecuador
-- I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️.
+- 👨🏻‍💻 Working on personal projects 💫 Swift • C#
+- 🏠 Quito, Ecuador • Books 📚 • Music\Podcasts 🎧
+------
+[Polywork](https://www.polywork.com/pablinme) • [LinkedIn](https://www.linkedin.com/in/pablinme/) • [GitHub](https://github.com/pablinme) • [Twitter](https://twitter.com/pablinme)
 ------
 
 ### Languages
